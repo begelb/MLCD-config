@@ -13,7 +13,7 @@
     'test_url': '',
     'num_labels': 3,
     'network_width_list_for_experiment': '[12, 15, 18, 21]',
-    'using_local_data': True,
+    'using_local_data': False,
     'results_directory': 'output/results/M3D',
     'models_directory': 'output/models/M3D',
     'figures_directory': 'output/figures/M3D',

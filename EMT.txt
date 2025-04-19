@@ -13,7 +13,7 @@
     'test_url': '',
     'num_labels': 2,
     'network_width_list_for_experiment': '[18]',
-    'using_local_data': True,
+    'using_local_data': False,
     'results_directory': 'output/results/EMT',
     'models_directory': 'output/models/EMT',
     'figures_directory': 'output/results/EMT',

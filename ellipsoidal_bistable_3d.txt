@@ -13,7 +13,7 @@
     'test_url': '',
     'num_labels': 2,
     'network_width_list_for_experiment': '[6, 12]',
-    'using_local_data': True,
+    'using_local_data': False,
     'results_directory': 'output/results/ellipsoidal_3d',
     'models_directory': 'output/models/ellipsoidal_3d',
     'figures_directory': 'output/figures/ellipsoidal_3d',
