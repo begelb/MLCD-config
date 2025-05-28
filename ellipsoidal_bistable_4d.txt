@@ -18,7 +18,7 @@
     'models_directory': 'output/models/ellipsoidal_larger_domain_4d',
     'figures_directory': 'output/figures/ellipsoidal_larger_domain_4d',
     'threshold_prediction': True,
-    'batch_size': 100000,
+    'batch_size': 80000,
     'weak_weight_share': False,
     'patience': 100,
     'reduction_threshold': 0.1
